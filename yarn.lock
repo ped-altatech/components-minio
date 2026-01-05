@@ -2883,18 +2883,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/addon-links@npm:9.0.18":
-  version: 9.0.18
-  resolution: "@storybook/addon-links@npm:9.0.18"
+"@storybook/addon-links@npm:10.1.11":
+  version: 10.1.11
+  resolution: "@storybook/addon-links@npm:10.1.11"
   dependencies:
     "@storybook/global": "npm:^5.0.0"
   peerDependencies:
-    react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0-beta
-    storybook: ^9.0.18
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
+    storybook: ^10.1.11
   peerDependenciesMeta:
     react:
       optional: true
-  checksum: 10c0/15302c5207126efe234a4dfc33681ae7304104c9cf9e5acc866121fd7f9232bce64e7a2166b39fb1c9748773da0d8a9536ea488fbc28c26885951e3a929d5d97
+  checksum: 10c0/f12e88e89c9fdfbb4c538a5962459a9e66b89a853a9867181076a532e3b3a9fc567ac8cc8460a66cb971fd23d6c91713542d4e8155a4b4a3ebedd33d71c1c1fc
   languageName: node
   linkType: hard
 
@@ -7659,7 +7659,7 @@ __metadata:
     "@rollup/plugin-node-resolve": "npm:^16.0.1"
     "@rollup/plugin-typescript": "npm:^12.1.3"
     "@storybook/addon-docs": "npm:9.0.18"
-    "@storybook/addon-links": "npm:9.0.18"
+    "@storybook/addon-links": "npm:10.1.11"
     "@storybook/addon-webpack5-compiler-babel": "npm:3.0.6"
     "@storybook/preview-api": "npm:^8.6.14"
     "@storybook/react-webpack5": "npm:9.0.18"
